@@ -1,2 +1,1 @@
-# goit-js-hw-01
-Homework JS (1)
+All Home Works
